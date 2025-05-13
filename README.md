@@ -14,7 +14,9 @@ Australis is a cosmetics company that maintains an active presence on Facebook. 
 - Visualizes **top comments** and a **word cloud** of customers’ most used words  
 - Highlights **monthly** engagement trends  
 
-<img src="/Users/sarahkoopman/Documents/Hult/Classes Sping Semester/9. Business Intelligence" alt="Power BI Dashboard Screenshot" width="600" />
+<img src="/Users/sarahkoopman/Documents/Hult/Classes Sping Semester/9. Business Intelligence/Australis_SKoopman_Screenshot.png" 
+     alt="Power BI Dashboard Screenshot" 
+     width="600" />
 
 ---
 
